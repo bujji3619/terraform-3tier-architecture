@@ -174,6 +174,3 @@ If you like this project, give it a ⭐ on GitHub!
 
 This project is open-source and available under the MIT License.
 
-🚀 Resume Description
-
-Designed and deployed a scalable AWS 3-tier architecture using Terraform, implementing secure VPC networking, public/private subnets, load balancing, and database integration. Automated infrastructure provisioning using Infrastructure as Code principles.
